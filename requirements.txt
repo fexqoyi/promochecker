@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+selenium
+pyyaml
+colorama
+python-dateutil
+fade
